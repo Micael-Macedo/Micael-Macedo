@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Oiii! Muito prazer sou Micael Macedo e é sempre um prazer ajudar as pessoas 👋
+<hr>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micael-Macedo&layout=compact&langs_count=7&theme=dracula"/>
 <!--
 **Micael-Macedo/Micael-Macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
