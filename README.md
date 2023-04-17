@@ -1,10 +1,10 @@
 <h1>Oiii! Muito prazer sou Micael Macedo e estou sempre me dedicando a área de TI visando o meu desenvolvimento profissional e pessoal</h1>
-<hr>
+
 <div>
   <ul>
     <li>Idade: 20 anos</li>
     <li>Tecnico em Desenvolvimento de Sistemas pelo SENAI - Cimatec</li>
-    <li>Atualmente estou aprendendo PHP</li>
+    <li>Atualmente estou aprendendo JavaScript</li>
     <li>Estou estudando para a WorldSkills</li>
   </ul>
 </div>
