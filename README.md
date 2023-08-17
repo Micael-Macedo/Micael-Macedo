@@ -4,6 +4,7 @@
   <ul>
     <li>Idade: 20 anos</li>
     <li>Tecnico em Desenvolvimento de Sistemas pelo SENAI - Cimatec</li>
+    <li>Fazendo Graduação de Sistemas de Informação na UFBA</li>
     <li>Atualmente estou aprendendo JavaScript</li>
     <li>Estou estudando para a WorldSkills</li>
   </ul>
